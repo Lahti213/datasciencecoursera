@@ -1,4 +1,4 @@
-data-science-toolbox
+datasciencecoursera
 ====================
 
-For Coursera.org course Data Science Toolbox
+For Coursera.org data science courses.
